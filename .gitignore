@@ -1,0 +1,25 @@
+# Ignore the .git directory itself
+/.git
+
+# Ignore the .gitattributes file
+/.gitattributes
+
+# Ignore the .metadata directory
+/metadata
+
+# Ignore the ManageServices directory
+/ManageServices
+
+# Ignore the Servers directory
+/Servers
+
+# Ignore other potential metadata files
+/.metadata
+/.gitmodules
+/.gitkeep
+
+# Ignore specific projects and directories
+/OOP PROJECT
+/Vehicle-and-fual-managemant/.gitattributes
+
+
